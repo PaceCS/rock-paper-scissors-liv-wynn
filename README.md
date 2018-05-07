@@ -8,7 +8,7 @@ You will be re-creating the classic game Rock, Paper, Scissors.  You will do thi
 
 Below are some sample examples of the game.  You can run the game by going to Finder and double clicking on the file RPS.app (just like any other app you run on your Mac.)
 
-``` 
+```
   ____            _                                          
   |  _ \ ___   ___| | __                                      
   | |_) / _ \ / __| |/ /                                      
@@ -18,7 +18,7 @@ Below are some sample examples of the game.  You can run the game by going to Fi
                | |_) / _` | '_ \ / _ \ '__|                   
                |  __/ (_| | |_) |  __/ |_                     
                |_|   \__,_| .__/ \___|_( )                    
-                        __|_|      _   |/                   _ 
+                        __|_|      _   |/                   _
                        / ___|  ___(_)___ ___  ___  _ __ ___| |
                        \___ \ / __| / __/ __|/ _ \| '__/ __| |
                         ___) | (__| \__ \__ \ (_) | |  \__ \_|
@@ -41,7 +41,7 @@ Rock beats scissors.  You win!
                | |_) / _` | '_ \ / _ \ '__|                   
                |  __/ (_| | |_) |  __/ |_                     
                |_|   \__,_| .__/ \___|_( )                    
-                        __|_|      _   |/                   _ 
+                        __|_|      _   |/                   _
                        / ___|  ___(_)___ ___  ___  _ __ ___| |
                        \___ \ / __| / __/ __|/ _ \| '__/ __| |
                         ___) | (__| \__ \__ \ (_) | |  \__ \_|
@@ -65,7 +65,7 @@ Scissors beats paper.  You lose.
                | |_) / _` | '_ \ / _ \ '__|                   
                |  __/ (_| | |_) |  __/ |_                     
                |_|   \__,_| .__/ \___|_( )                    
-                        __|_|      _   |/                   _ 
+                        __|_|      _   |/                   _
                        / ___|  ___(_)___ ___  ___  _ __ ___| |
                        \___ \ / __| / __/ __|/ _ \| '__/ __| |
                         ___) | (__| \__ \__ \ (_) | |  \__ \_|
